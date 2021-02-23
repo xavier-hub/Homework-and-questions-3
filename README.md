@@ -51,4 +51,4 @@ figcaption HTML example
 23.  the first attribute is src= this is used to tell brackets where the image is found and alt the second one used to tell brackets what the image is.
 24.  an absolute path is a file path that has root directory and subdirectories example http://collegedonefast.com/oh.html
 25.  a relative path is a path without the file name of the program and the difference is the absoulte path can locate file it's searching for and it's directory while the relative path can't find anything because it does have the file to search for it.
-26.  
+
