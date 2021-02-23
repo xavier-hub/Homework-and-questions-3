@@ -46,6 +46,7 @@ figcaption HTML example
     padding-top: 2rem;
     padding-bottom: 4rem;
 }
+
 21.  we put images on a web page to show content of what we are providing 
 22.  the img element is used to put a image on a website and it has open tag but no closing tag.
 23.  the first attribute is src= this is used to tell brackets where the image is found and alt the second one used to tell brackets what the image is.
